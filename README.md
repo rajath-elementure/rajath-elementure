@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @rajath-elementure
-- 👀 I’m interested in python, kotlin, swift and so on.
+- 👋 Hi, I’m Rajath Kumar K S
+- 👀 I’m interested in python, FastAPI, Flask, Django and so on.
 - 🌱 I’m currently working as Thought Leader Software and Innovation at Elementure
 - 💞️ I’m looking to collaborate on Python based Web Application Projects
 - 📫 How to reach me rajath@elementure.tech
